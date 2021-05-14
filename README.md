@@ -5,11 +5,15 @@ This refactoring should also result in improved search engine optimization.
 The modification does not change the displayed styling of the page, only the underlying code.
 
 # Images
+<img width="958" alt="Horiseon-top-page" src="https://user-images.githubusercontent.com/83045173/118214846-86f35c80-b43e-11eb-9fb7-66d99d94a67b.PNG">
+<img width="954" alt="Horiseon-bottom-page" src="https://user-images.githubusercontent.com/83045173/118214897-98d4ff80-b43e-11eb-9510-3ac759a1e44f.PNG">
 
 
 
 
 
 # Links
+https://github.com/Abuzar2210/Code_Refactor
+https://abuzar2210.github.io/Code_Refactor/
 
 
