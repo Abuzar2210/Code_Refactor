@@ -2,7 +2,7 @@
 This project is a code refactor for the Horiseon Webpage a SEO marketing agnecy. Who has asked for greater accessiablity standards and optimized for search engines 
 The refactoring of the code allowed for previous code to be more efficient, comprehensible and more accessible to everyone for standards which the agency would approve.
 This refactoring should also result in a much more improved search engine optimization than before. 
-The modification made do not change the displayed styling of the page, only the underlying code to help give it more strcutre.
+The modification made do not change the displayed styling of the page, only the underlying code to help give it more structure.
 The code now is much more clean and efficient to the standards of the marketing agency, which overall would allow for the webpage to run smoothly.
 
 # Images
