@@ -89,6 +89,7 @@ p {
 .benefit-lead, .benefit-brand, .benefit-cost  {
     margin-bottom: 32px;
     color: #ffffff;}
+    /* condense the code */
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3  {
     margin-bottom: 10px;
     text-align: center;
